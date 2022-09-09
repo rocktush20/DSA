@@ -1,0 +1,8 @@
+Conditions of Anagram
+
+1. Length of both strings will be equal
+2. Characters present in string s1 will also present in 
+string s2 and the frequency of Characters are also same
+
+If two strings follow above Conditions then they will be 
+Anagrams to each other
